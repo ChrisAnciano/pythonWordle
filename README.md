@@ -1,1 +1,2 @@
 # pythonWordle
+This program is a simple word guessing game, similar to the game Wordle. It prompts the player to guess a 5-letter word. The program selects a random 5-letter word from a list of English words and the player has six attempts to guess the word correctly. After each guess, the program provides feedback on the correctness of each letter in the guess. If the player guesses the word correctly within six attempts, they win. Otherwise, the program reveals the correct word. The player can choose to play again or exit the game.
